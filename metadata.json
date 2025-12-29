@@ -1,0 +1,7 @@
+{
+  "name": "Janamdin Mubarak - Birthday Wish Magic",
+  "description": "A festive, AI-powered birthday wish generator that creates personalized messages, poems, and celebratory digital cards using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
